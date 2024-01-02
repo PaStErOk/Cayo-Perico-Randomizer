@@ -1,0 +1,32 @@
+[
+  {
+    "ID": 1000001,
+    "NameWeaponKit": "Зачинщик",
+    "ImageAddress": "src/Data/Images/Weapons/Zachinshik.png",
+    "WinPercent": 20
+  },
+  {
+    "ID": 1000002,
+    "NameWeaponKit": "Конспиратор",
+    "ImageAddress": "src/Data/Images/Weapons/Konspirator.png",
+    "WinPercent": 20
+  },
+  {
+    "ID": 1000003,
+    "NameWeaponKit": "Снайпер",
+    "ImageAddress": "src/Data/Images/Weapons/Sniper.png",
+    "WinPercent": 20
+  },
+  {
+    "ID": 1000004,
+    "NameWeaponKit": "Диверсант",
+    "ImageAddress": "src/Data/Images/Weapons/Diversant.png",
+    "WinPercent": 20
+  },
+  {
+    "ID": 1000005,
+    "NameWeaponKit": "Марксман",
+    "ImageAddress": "src/Data/Images/Weapons/Marksman.png",
+    "WinPercent": 20
+  }
+]
