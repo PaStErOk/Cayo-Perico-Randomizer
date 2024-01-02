@@ -1,0 +1,17 @@
+[
+  {
+    "ID": 1440001,
+    "NameIslandEntrance": "Главный док",
+    "WinPercent": 33.33
+  },
+  {
+    "ID": 1440002,
+    "NameIslandEntrance": "Северный док",
+    "WinPercent": 33.33
+  },
+  {
+    "ID": 1440003,
+    "NameIslandEntrance": "Западный пляж",
+    "WinPercent": 33.33
+  }
+]

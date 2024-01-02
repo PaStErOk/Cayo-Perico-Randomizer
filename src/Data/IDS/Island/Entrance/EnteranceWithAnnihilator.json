@@ -1,0 +1,12 @@
+[
+  {
+    "ID": 1420001,
+    "NameIslandEntrance": "Северная зона выброски",
+    "WinPercent": 50
+  },
+  {
+    "ID": 1420002,
+    "NameIslandEntrance": "Южная зона выброски",
+    "WinPercent": 50
+  }
+]
