@@ -1,0 +1,22 @@
+[
+  {
+    "ID": 1300001,
+    "NameIslandEscape": "Взлётная полоса",
+    "WinPercent": 25
+  },
+  {
+    "ID": 1300002,
+    "NameIslandEscape": "Главный док",
+    "WinPercent": 25
+  },
+  {
+    "ID": 1300003,
+    "NameIslandEscape": "Северный док",
+    "WinPercent": 25
+  },
+  {
+    "ID": 1300004,
+    "NameIslandEscape": "Вплавь",
+    "WinPercent": 25
+  }
+]

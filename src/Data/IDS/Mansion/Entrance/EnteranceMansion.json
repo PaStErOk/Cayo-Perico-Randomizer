@@ -1,0 +1,32 @@
+[
+  {
+    "ID": 1500001,
+    "NameMansionEntrance": "Главные ворота",
+    "WinPercent": 16.67
+  },
+  {
+    "ID": 1500002,
+    "NameMansionEntrance": "Северная стена",
+    "WinPercent": 16.67
+  },
+  {
+    "ID": 1500003,
+    "NameMansionEntrance": "Северные ворота",
+    "WinPercent": 16.67
+  },
+  {
+    "ID": 1500004,
+    "NameMansionEntrance": "Южная стена",
+    "WinPercent": 16.67
+  },
+  {
+    "ID": 1500005,
+    "NameMansionEntrance": "Южные ворота",
+    "WinPercent": 16.67
+  },
+  {
+    "ID": 1500006,
+    "NameMansionEntrance": "Канализационный тоннель",
+    "WinPercent": 16.67
+  }
+]

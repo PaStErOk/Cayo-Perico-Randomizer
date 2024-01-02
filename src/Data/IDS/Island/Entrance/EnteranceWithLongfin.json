@@ -1,0 +1,12 @@
+[
+  {
+    "ID": 1430001,
+    "NameIslandEntrance": "Главный док",
+    "WinPercent": 100
+  },
+  {
+    "ID": 1430002,
+    "NameIslandEntrance": "Северный док",
+    "WinPercent": 50
+  }
+]

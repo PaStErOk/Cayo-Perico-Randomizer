@@ -1,0 +1,27 @@
+[
+  {
+    "ID": 1600001,
+    "NameMansionEntrance": "Главные ворота",
+    "WinPercent": 20
+  },
+  {
+    "ID": 1600002,
+    "NameMansionEntrance": "Северная стена",
+    "WinPercent": 20
+  },
+  {
+    "ID": 1600003,
+    "NameMansionEntrance": "Северные ворота",
+    "WinPercent": 20
+  },
+  {
+    "ID": 1600004,
+    "NameMansionEntrance": "Южная стена",
+    "WinPercent": 20
+  },
+  {
+    "ID": 1600005,
+    "NameMansionEntrance": "Южные ворота",
+    "WinPercent": 20
+  }
+]
