@@ -1,0 +1,74 @@
+[
+  {
+    "ID": 1200001,
+    "NameOthers": "Саботаж: Оружие",
+    "WinPercent": 50,
+    "LosePercent": 50
+  },
+  {
+    "ID": 1200002,
+    "NameOthers": "Саботаж: Броня",
+    "WinPercent": 50,
+    "LosePercent": 50
+  },
+  {
+    "ID": 1200003,
+    "NameOthers": "Саботаж: Поддержка с воздуха",
+    "WinPercent": 50,
+    "LosePercent": 50
+  },
+  {
+    "ID": 1200004,
+    "NameOthers": "Помощь: Покупка глушителя",
+    "WinPercent": 50,
+    "LosePercent": 50
+  },
+  {
+    "ID": 1200005,
+    "NameOthers": "Саппорт: Авиаудар",
+    "WinPercent": 50,
+    "LosePercent": 50
+  },
+  {
+    "ID": 1200006,
+    "NameOthers": "Саппорт: Сброс снабжения",
+    "WinPercent": 50,
+    "LosePercent": 50
+  },
+  {
+    "ID": 1200007,
+    "NameOthers": "Саппорт: Снайпер",
+    "WinPercent": 50,
+    "LosePercent": 50
+  },
+  {
+    "ID": 1200008,
+    "NameOthers": "Саппорт: Поддержка с воздуха",
+    "WinPercent": 50,
+    "LosePercent": 50
+  },
+  {
+    "ID": 1200009,
+    "NameOthers": "Саппорт: Заначка с оружием",
+    "WinPercent": 50,
+    "LosePercent": 50
+  },
+  {
+    "ID": 1200010,
+    "NameOthers": "Саппорт: Разведдрон",
+    "WinPercent": 50,
+    "LosePercent": 50
+  },
+  {
+    "ID": 1200011,
+    "NameOthers": "Саботаж: Отравление порошком",
+    "WinPercent": 50,
+    "LosePercent": 50
+  },
+  {
+    "ID": 1200012,
+    "NameOthers": "Саботаж: Выключение электростанции",
+    "WinPercent": 50,
+    "LosePercent": 50
+  }
+]

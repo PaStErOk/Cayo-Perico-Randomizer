@@ -1,0 +1,38 @@
+[
+  {
+    "ID": 1100001,
+    "NameVehicle": "Kosatka",
+    "ImageAddress": "src/Data/Images/Vehicle/Kosatka.png",
+    "WinPercent": 16.67
+  },
+  {
+    "ID": 1100002,
+    "NameVehicle": "Alkonost",
+    "ImageAddress": "src/Data/Images/Vehicle/Alkonost.png",
+    "WinPercent": 16.67
+  },
+  {
+    "ID": 1100003,
+    "NameVehicle": "Velum",
+    "ImageAddress": "src/Data/Images/Vehicle/Velum.png",
+    "WinPercent": 16.67
+  },
+  {
+    "ID": 1100004,
+    "NameVehicle": "Annihilator",
+    "ImageAddress": "src/Data/Images/Vehicle/Annihilator.png",
+    "WinPercent": 16.67
+  },
+  {
+    "ID": 1100005,
+    "NameVehicle": "Патрульный катер",
+    "ImageAddress": "src/Data/Images/Vehicle/PatrolBoat.png",
+    "WinPercent": 16.67
+  },
+  {
+    "ID": 1100006,
+    "NameVehicle": "Longfin",
+    "ImageAddress": "src/Data/Images/Vehicle/Longfin.png",
+    "WinPercent": 16.67
+  }
+]
